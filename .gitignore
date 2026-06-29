@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Env
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Data
+data/
+*.parquet
+*.db
+*.sqlite
+*.duckdb
+
+# Docker volumes
+pgdata/
+miniodata/
+
+# Transforms
+transforms/europe_data.db
+transforms/.venv

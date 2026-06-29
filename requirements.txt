@@ -1,0 +1,8 @@
+apache-airflow==2.9.3
+minio==7.2.7
+psycopg2-binary==2.9.9
+sqlmesh==0.130.0
+pandas==2.2.2
+requests==2.32.3
+pyarrow==17.0.0
+protobuf==4.25.3
